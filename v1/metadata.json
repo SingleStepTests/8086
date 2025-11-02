@@ -957,26 +957,34 @@
         "D2": {
             "reg": {
                 "0": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487                    
                 },
                 "1": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487    
                 },
                 "2": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487    
                 },
                 "3": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487    
                 },
                 "4": {
                     "status": "normal",
-                    "flags": ".....a..",
-                    "flags-mask": 65519
+                    "flags": "o....a..",
+                    "flags-mask": 63471
                 },
                 "5": {
                     "status": "normal",
-                    "flags": ".....a..",
-                    "flags-mask": 65519
+                    "flags": "o....a..",
+                    "flags-mask": 63471
                 },
                 "6": {
                     "status": "undocumented",
@@ -985,34 +993,42 @@
                 },
                 "7": {
                     "status": "normal",
-                    "flags": ".....a..",
-                    "flags-mask": 65519
+                    "flags": "o....a..",
+                    "flags-mask": 63471
                 }
             }
         },
         "D3": {
             "reg": {
                 "0": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487                    
                 },
                 "1": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487    
                 },
                 "2": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487    
                 },
                 "3": {
-                    "status": "normal"
+                    "status": "normal",
+                    "flags": "o.......",
+                    "flags-mask": 63487    
                 },
                 "4": {
                     "status": "normal",
-                    "flags": ".....a..",
-                    "flags-mask": 65519
+                    "flags": "o....a..",
+                    "flags-mask": 63471
                 },
                 "5": {
                     "status": "normal",
-                    "flags": ".....a..",
-                    "flags-mask": 65519
+                    "flags": "o....a..",
+                    "flags-mask": 63471
                 },
                 "6": {
                     "status": "undocumented",
@@ -1021,8 +1037,8 @@
                 },
                 "7": {
                     "status": "normal",
-                    "flags": ".....a..",
-                    "flags-mask": 65519
+                    "flags": "o....a..",
+                    "flags-mask": 63471
                 }
             }
         },
